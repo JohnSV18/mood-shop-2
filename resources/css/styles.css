@@ -20,4 +20,9 @@ body{
     display: block;
     padding: 0.5em;
     text-decoration: none;
+} 
+nav{
+    background-color: coral;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
 }
